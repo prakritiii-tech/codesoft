@@ -34,5 +34,3 @@ The model successfully classified iris flowers with high accuracy.
 - Petal length and petal width were the most important features.
 - Random Forest performed better than Decision Tree.
 
-## Author
-Sagar Singh Parmar
