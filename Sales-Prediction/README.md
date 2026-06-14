@@ -41,5 +41,4 @@ Titanic Dataset containing passenger details such as:
 - First-class passengers survived more frequently.
 - Fare and family size influenced survival probability.
 
-## Author
-Sagar Singh Parmar
+
